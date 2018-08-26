@@ -1,0 +1,16 @@
+{
+    "name": "zpenguin84/bracket-service",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zpenguin84",
+            "email": "zpenguin84@list.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "zpenguin84/bracket-validator": "dev-master"
+    }
+}
